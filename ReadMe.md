@@ -150,7 +150,9 @@ public class MainActivity extends AppCompatActivity {
 ### Subject 
 
 >> Observable(발행) 과 동시에 Observer(구독)을 할 수 있는 역할
+
 >> Subject는 이벤트를 전달받아 구독자들에게 이벤트를 전파하는 중간다리
+
 >> 아이템(데이터)을 발행하고 있는 Observable 들의 데이터를 합치거나, 구독 시점 변경 가능
 
 #### PublishSubject
