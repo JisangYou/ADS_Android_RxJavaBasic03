@@ -181,9 +181,9 @@ public class MainActivity extends AppCompatActivity {
 
 ### subscribeOn, observeOn
 
-> observeOn() : Observable이 아이템을 전파할 때, 사용할 스레드를 지정하는 것
+>> observeOn() : Observable이 아이템을 전파할 때, 사용할 스레드를 지정하는 것
 
-> subscribeOn(): subscribeOn은 구독(subscribe)에서 사용할 스레드를 지정하는 것
+>> subscribeOn(): subscribeOn은 구독(subscribe)에서 사용할 스레드를 지정하는 것
 
 - 예시
 
