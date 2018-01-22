@@ -2,7 +2,7 @@
 
 ## 수업 내용
 
-- Rx Subject 학습
+- RxJava_Subject 학습
 
 ## Code Review
 
